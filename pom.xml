@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20230618</version> <!-- Phiên bản có thể thay đổi -->
+            <version>20231013</version> <!-- Phiên bản có thể thay đổi -->
         </dependency>
         <dependency>
             <groupId>org.jsoup</groupId>
