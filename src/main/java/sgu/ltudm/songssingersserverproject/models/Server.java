@@ -15,6 +15,10 @@ public class Server {
     private static ServerSocket server = null;
 
     public static void main(String[] args) throws IOException {
+        run();
+    }
+
+    public static void run() throws IOException {
         try {
             int corePoolSize = 2; // Số luồng tối thiểu trong pool
             int maximumPoolSize = 4; // Số luồng tối đa trong pool
@@ -53,5 +57,9 @@ public class Server {
         String api = "https://retoolapi.dev/fHdCgZ/ipAddressServer/1"; // Ghi vào dòng 1 trong DB
         String jsonData = "{\"ip\":\"" + addr + "\"}";
         Jsoup.connect(api).ignoreContentType(true).ignoreHttpErrors(true).header("Content-Type", "application/json").requestBody(jsonData).method(Connection.Method.PUT).execute();
+    }
+
+    public static void stop() throws IOException {
+        server.close();
     }
 }

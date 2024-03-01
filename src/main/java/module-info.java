@@ -16,6 +16,7 @@ module sgu.ltudm.songssingersserverproject {
     requires annotations;
 
     opens sgu.ltudm.songssingersserverproject to javafx.fxml;
+    exports sgu.ltudm.songssingersserverproject to javafx.graphics;
     exports sgu.ltudm.songssingersserverproject.models;
     exports sgu.ltudm.songssingersserverproject.controllers;
     opens sgu.ltudm.songssingersserverproject.controllers to javafx.fxml;
