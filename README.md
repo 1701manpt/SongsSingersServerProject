@@ -1,3 +1,5 @@
+Tệp thực thi .exe: https://github.com/1701manpt/SongsSingersServerProject/blob/master/SongsSingersServerProject.exe
+
 Yêu cầu:
 ![image](https://github.com/1701manpt/SongsSingersProject/assets/76032325/0499ca5e-258f-46fe-9108-008c71e8a6d1)
 
