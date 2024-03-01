@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Yêu cầu:
 ![image](https://github.com/1701manpt/SongsSingersProject/assets/76032325/0499ca5e-258f-46fe-9108-008c71e8a6d1)
 
@@ -11,6 +10,3 @@ Chức năng tìm kiếm bài hát:
 Chức năng tìm kiếm ca sĩ:
 ![image](https://github.com/1701manpt/SongsSingersProject/assets/76032325/d54d1ad7-ccd2-4754-8b3f-16ce7384af3d)
 ![image](https://github.com/1701manpt/SongsSingersProject/assets/76032325/edcfbd3a-b64c-4e9d-8b34-abea25aac0bc)
-=======
-Yêu cầu: https://photos.app.goo.gl/o8odSU9ufsawWA3k9
->>>>>>> origin/master
