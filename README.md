@@ -4,7 +4,7 @@
 
   ![image](https://github.com/1701manpt/SongsSingersProject/assets/76032325/0499ca5e-258f-46fe-9108-008c71e8a6d1)
 
-# Demo (tất cả dữ liệu bài hát, ca sĩ đều lấy từ trên internet, không lưu trữ trên csdl)
+# **Demo (tất cả dữ liệu bài hát, ca sĩ đều lấy từ trên internet, không lưu trữ trên csdl)**
 
 ## **1. Chức năng tìm kiếm bài hát:**
 
