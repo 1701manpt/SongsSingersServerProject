@@ -1,4 +1,4 @@
-## Tệp thực thi .exe: https://github.com/1701manpt/SongsSingersProject/blob/master/SongsSingersProject.exe
+## Tệp thực thi .exe: https://github.com/1701manpt/SongsSingersServerProject/blob/master/SongsSingersServerProject.exe
 
 # Yêu cầu
 
